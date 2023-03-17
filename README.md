@@ -1,0 +1,2 @@
+# Quotes
+Celebrity quotes page
